@@ -1,5 +1,5 @@
 `timescale 1ns/1ns 
-`include "MotorControl_v2.v"
+`include "motorcontrol.v"
 
 module tb_motorcontrol;
 
